@@ -1,0 +1,3 @@
+.vscode
+src/database/database.db
+node_modules
